@@ -96,7 +96,7 @@ npm run format
 
 “Guaranteed returns”
 
-The system provides education, analysis, and insight, but not regulated financial advice.
+The system provides education, analysis, and insight, but not regulated Financial advice.
 
 📤 Deployment (Optional)
 

@@ -34,7 +34,7 @@ Styling: CSS / Tailwind (optional)
 State Handling: React hooks / Context API
 
 📦 Getting Started
-1. Clone the Repository
+1. Clone the Repo
 
 Using GitHub Web UI, after creating your repo, copy the HTTPS link and run:
 
